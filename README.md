@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harisreedhar
 - 💭 I love contributing to opensource
-- 🌱 I’m currently learning data-science
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harisreedhar&show_icons=true&locale=en" alt="harisreedhar" /></p>
 
